@@ -1,0 +1,12 @@
+****** Enunciado Ejercicio 47 ********
+Dados un array de objetos, devolver cuales son las aficiones mas comunes
+de los usuarios
+
+Ejemplos:
+aficiones(usuarios)
+
+//Devuelve:
+Informatica: 6
+Cine: 7
+Futbol: 2
+Videojuegos: 1

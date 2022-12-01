@@ -1,0 +1,13 @@
+****** Enunciado Ejercicio 41 ********
+Dado un numero, mostrar un triangulo de asteriscos *
+con ese numero de filas.
+
+Ejemplos:
+triangulo(4);
+
+//Devuelve:
+
+   *
+  ***
+ *****
+*******

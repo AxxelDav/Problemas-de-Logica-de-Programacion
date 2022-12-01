@@ -1,0 +1,9 @@
+****** Enunciado Ejercicio 14 ********
+Dado un String y un numero, repetir el string tantas veces
+como el numero indique.
+
+Ejemplos:
+repiteme("victor", 2)
+
+
+Devuelve: victorvictor

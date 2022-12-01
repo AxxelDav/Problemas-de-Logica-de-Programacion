@@ -1,0 +1,9 @@
+****** Enunciado Ejercicio 23 ********
+Dada una cadena de texto, poner en mayuscula la primera letra
+de cada palabra en la cadena y luego devolver la cadena.
+
+Ejemplos:
+enMayuscula("hola soy axel");
+
+//Devuelve:
+"Hola Soy Axel"

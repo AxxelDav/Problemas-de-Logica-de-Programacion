@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 7 ********
+Dados dos numeros, devolver cuantos numeros IMPARES
+hay entre ellos.
+
+Ejemplos:
+impares(1, 100)
+
+Devuelve: 49

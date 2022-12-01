@@ -1,0 +1,9 @@
+****** Enunciado Ejercicio 44 ********
+Dado un array de String, devolver otro con los valores que
+esten formados por mas de dos palabras.
+
+Ejemplos:
+dosPalabras(["hola", "san fransisco", "ciudad real", "victor"]);
+
+//Devuelve:
+["san fransisco", "ciudad real"]

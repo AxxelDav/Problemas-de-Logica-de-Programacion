@@ -1,0 +1,7 @@
+****** Enunciado Ejercicio 5 ********
+Dado un numero entero, inviertelo y devuelve de nuevo el entero.
+
+Ejemplos:
+invertirNumero(67)
+
+Devuelve: 76

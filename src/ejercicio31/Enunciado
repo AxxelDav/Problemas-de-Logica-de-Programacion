@@ -1,0 +1,5 @@
+****** Enunciado Ejercicio 31 ********
+Dado un numero, indicar que tipo de angulo es.
+
+Ejemplos:
+angulo(47);  //Devuelve: Angulo agudo

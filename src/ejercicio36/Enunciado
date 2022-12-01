@@ -1,0 +1,9 @@
+****** Enunciado Ejercicio 36 ********
+Dado un texto, devolver cuantas consonantes y cuantas vocales tiene.
+
+Ejemplos:
+cuantasLetras("victorroblesweb.es");
+
+//Devuelve:
+Consonantes: 5
+Vocales: 6

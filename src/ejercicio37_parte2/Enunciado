@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 37_Parte2 ********
+Dado un array devolver el elemento que mas aparece.
+
+Ejemplos:
+elQueMasAparece([1,2,3,4,1]]);
+
+//Devuelve:
+1

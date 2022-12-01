@@ -1,0 +1,13 @@
+****** Enunciado Ejercicio 38 ********
+Dado un numero, mostrar listado de los cuadrados
+de todos los numeros naturales hasta llegar al mismo inclusive.
+
+Ejemplos:
+listadoCuadrados(5);
+
+//Devuelve:
+1
+4
+9
+16
+25

@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 39 ********
+Dado un texto, comprobar que sea un email valido.
+
+Ejemplos:
+comprobarEmail(axel@axel.com);
+
+//Devuelve:
+true

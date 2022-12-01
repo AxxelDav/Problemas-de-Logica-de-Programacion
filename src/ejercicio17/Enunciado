@@ -1,0 +1,15 @@
+****** Enunciado Ejercicio 17 ********
+
+Dado un numero, mostrar los numeros de 1 hasta el numero.
+Pero para multiplos de 3 imprimir "buzz" en lugar del numero y para los multiplos de 5 imprimir "lightyear".
+Para multiplos de 3 y 5 imprimir "Buzzlightyear".
+
+Ejemplos:
+buzz(5);
+
+Devuelve:
+1
+2
+buzz
+4
+lightyear

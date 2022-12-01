@@ -1,0 +1,11 @@
+****** Enunciado Ejercicio 20 ********
+Dadas dos cadenas de texto, crear un algoritmo que compruebe
+si son anagramas entre si.
+
+Una cadena es un anagrama de otra si usa los mismos caracteres en la misma cantidad.
+
+No tener en cuenta espacios, ni Mayúscula/Minúscula, símbolos raros, puntos, etc.
+
+Ejemplos:
+anagramas("Sergio", "Riesgo");   //Devuelve: true
+anagramas("Victor", "Robles");   //Devuelve: false

@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 49 ********
+Dados un objeto, comprobar si existe una propiedad
+en concreto.
+
+Ejemplos:
+existePropiedad(miObjeto, "nombre")
+
+//Devuelve: true

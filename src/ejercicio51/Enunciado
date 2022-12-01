@@ -1,0 +1,10 @@
+****** Enunciado Ejercicio 51 ********
+Dado un array de numeros, devolver un array nuevo con
+los numeros pares e impares separados.
+
+Ejemplos:
+pares([1,2,3,4])
+
+//Devuelve:
+pares: [2,4]
+impares: [1,3]

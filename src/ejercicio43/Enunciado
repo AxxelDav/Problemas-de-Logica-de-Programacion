@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 43 ********
+Dados un array de numeros, sacar la media de todos ellos.
+
+Ejemplos:
+aleatorios([1,2,3]);
+
+//Devuelve:
+2

@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 15 ********
+Dada una cadena de texto, devolver el caracter mas usado.
+
+Ejemplos:
+masUsado("victorroblesweb.es")
+
+Devuelve:
+Lo que mas se repite es: e

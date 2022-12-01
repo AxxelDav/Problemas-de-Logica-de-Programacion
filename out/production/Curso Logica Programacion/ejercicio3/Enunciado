@@ -1,0 +1,11 @@
+****** Enunciado Ejercicio 3 ********
+Dada una palabra, buscarla en una frase y devolver cuantas veces aparece en ella.
+La frase y la palabra deben ser parametros de una funcion.
+
+Ejemplos:
+coincidencias("hola soy una palabra en una frase, PALABRA", "palabra")  //Devuelve: 2
+coincidencias("soy la frase", "victor") //Devuelve: 0
+
+//Devuelve:
+pares: [2,4]
+impares: [1,3]

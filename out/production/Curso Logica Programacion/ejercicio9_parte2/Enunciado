@@ -1,0 +1,5 @@
+****** Enunciado Ejercicio 9 (parte 2) ********
+Dada dos String crear un metodo que devuelva un String con los elementos comunes (Se permiten duplicados)
+
+Ejemplos:
+elementosComunes(Cespedes, Axel);  //Devuelve: eee

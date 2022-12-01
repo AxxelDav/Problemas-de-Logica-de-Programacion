@@ -1,0 +1,7 @@
+****** Enunciado Ejercicio 29 ********
+Dada un numero, indicar si es un numero capicúa o no.
+Los números capicúa se leen igual de izquierda a derecha y viceversa.
+
+Ejemplos:
+capicua(2002);  //Devuelve: true
+capicua(2014);  //Devuelve: false

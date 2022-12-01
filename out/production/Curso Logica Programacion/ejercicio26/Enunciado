@@ -1,0 +1,10 @@
+****** Enunciado Ejercicio 26 ********
+Dada un numero, mostrar su serie de fibonacci.
+La serie de fibonacci es un orden de números donde
+cada numero es la suma de los dos anteriores.
+
+Ejemplos:
+fibonacci(10);
+
+//Devuelve:
+Serie completa: 0,1,1,2,3,5,8,13,21,34,55

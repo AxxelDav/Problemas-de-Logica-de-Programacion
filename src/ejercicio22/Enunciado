@@ -1,0 +1,9 @@
+****** Enunciado Ejercicio 22 ********
+Dadas dados numeros, indicar cual es mayor y cual es menor.
+
+Ejemplos:
+mayorMenor(8, 6);
+
+//Devuelve:
+EL NUMERO MAYOR ES: 8
+EL NUMERO MENOR ES: 6

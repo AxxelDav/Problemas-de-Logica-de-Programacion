@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 27 ********
+Dada un numero, mostrar a cuantos años, meses y días equivalen.
+
+Ejemplos:
+calcularDías(920);
+
+//Devuelve:
+Equivale a 2 años, 6 meses y 10 días.

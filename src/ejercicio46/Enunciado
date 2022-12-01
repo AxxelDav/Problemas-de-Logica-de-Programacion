@@ -1,0 +1,9 @@
+****** Enunciado Ejercicio 46 ********
+Dados un String, devolver todos los posibles substrings.
+
+Ejemplos:
+todosSubstrings("hola")
+
+//Devuelve:
+
+["h", "o", "l", "a", "ho", "ol", "la", "hol", "ola", "hola"]

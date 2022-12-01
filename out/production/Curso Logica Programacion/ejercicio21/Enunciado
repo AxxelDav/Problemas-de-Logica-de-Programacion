@@ -1,0 +1,6 @@
+****** Enunciado Ejercicio 21 ********
+Dadas una cadena de texto y un numero, recortar el string
+mostrando los X primeros caracteres.
+
+Ejemplos:
+recortar("Cursos Desarrollo Web", 6);   //Devuelve: "Cursos"

@@ -1,0 +1,10 @@
+****** Enunciado Ejercicio 40 ********
+Dado un array de numeros, devolver el valor mas bajo
+y el mas alto.
+
+Ejemplos:
+altoBajo([1,2,3,4,5]);
+
+//Devuelve:
+bajo: 1
+alto: 5

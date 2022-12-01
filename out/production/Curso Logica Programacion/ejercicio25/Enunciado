@@ -1,0 +1,10 @@
+****** Enunciado Ejercicio 25 ********
+Dada un string, ponerlo completo en mayúsculas o
+minúsculas dependiendo de si hay mas mayúsculas
+o minúsculas por defecto en el string.
+Si hay mas mayúsculas ponerlo t0do en mayus.
+Si hay mas minúsculas ponerlo t0do en minus.
+
+Ejemplos:
+mayusMinus("Cespedes");  //Devuelve: cespedes
+mayusMinus("RODRIguez");    //Devuelve: RODRIGUEZ

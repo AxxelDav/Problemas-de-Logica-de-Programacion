@@ -1,0 +1,15 @@
+****** Enunciado Ejercicio 33 ********
+Haz un reloj que en tiempo real vaya mostrando la hora
+a cada segundo.
+
+Solo puedes usar el objeto date para conseguir la hora por primera vez, pero NO para
+actualizar la hora.
+
+Ejemplos:
+Ejercicio33 ejercicio33 = new Ejercicio33
+ejercicio33.encender();
+
+//Ejemplos:
+14:20:16
+14:20:17
+14:20:18

@@ -1,0 +1,11 @@
+****** Enunciado Ejercicio 32 ********
+Dado un array de numeros, devolver el array con sus numeros elevados al cuadrado
+(numero multiplicado por si mismo).
+
+El array debe eliminar cualquier contenido que no sea numerico.  ----> ESTO NO SE PUEDE HACER EN JAVA (porque siempre hay que indicar el tipo de dato), se podria laburar con el tipo Object, pero seria muy rebuscado
+
+Ejemplos:
+alCuadrado([5, 6, 7])
+
+//Ejemplos:
+[25, 36, 49]

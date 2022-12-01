@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 42 ********
+Dados dos numeros, sacar un numero aleatorio entre ellos.
+
+Ejemplos:
+aleatorios(1, 100);
+
+//Devuelve:
+46

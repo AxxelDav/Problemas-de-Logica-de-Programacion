@@ -1,0 +1,8 @@
+****** Enunciado Ejercicio 37_Parte1 ********
+Dado un texto, devolver la palabra que mas aparece.
+
+Ejemplos:
+elQueMasAparece("victor robles victor");
+
+//Devuelve:
+victor
